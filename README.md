@@ -1,4 +1,4 @@
-# ResepKu
+# [ResepKu](https://resep-ku-alvian.vercel.app)
 ## Deskripsi
 ResepKu adalah aplikasi pencarian resep masakan berbasis web yang menggunakan API dari TheMealDB. Dibangun dengan React, aplikasi ini memungkinkan pengguna untuk mencari resep berdasarkan nama masakan, memfilter berdasarkan kategori atau negara asal, serta mendapatkan resep acak.
 ## Fitur Utama
